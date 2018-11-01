@@ -5,7 +5,7 @@ body{
   font-family:Mali,monospace;
   font-size: 14px;
   line-height: normal;
-  background-color: #225968;
+  background-color: white;
 }
 
 .title-class{
@@ -30,11 +30,17 @@ body{
 
 #img-div{
   background-color: #01112b;
+  width:
 }
 
 img{
-  width:1000px;
+  width:50%;
   height:500px;
   display:block;
   margin:auto;
+}
+
+#win{
+  text-align: center;
+  color:white;
 }

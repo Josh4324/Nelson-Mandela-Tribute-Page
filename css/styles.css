@@ -60,3 +60,9 @@ ul li{
   padding: 10px;
   line-height: 1.5em;
 }
+
+#link{
+  text-align: center;
+  padding-top: 30px;
+  font-size: 25px;
+}

@@ -44,3 +44,19 @@ img{
   text-align: center;
   color:white;
 }
+
+#tribute-info{
+  width: 60%;
+  margin: auto;
+}
+
+#life{
+  text-align: center;
+}
+
+ul li{
+  border: 1px outset;
+  list-style: none;
+  padding: 10px;
+  line-height: 1.5em;
+}
